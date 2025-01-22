@@ -92,11 +92,6 @@ a {
     gap: 20px;
 }
 
-.navbar .nav-links a {
-    /* color: #555; */
-    /* font-weight: bold; */
-}
-
 .navbar .contact-btn {
     padding: 10px 20px;
     background-color: rgb(254, 163, 1);
